@@ -1,0 +1,6 @@
+/*
+ * Public API Surface of connex-ui
+ */
+export * from './lib/connex-ui.module';
+export * from './lib/connex-button/connex-button.component';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL2Nvbm5leC11aS9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsd0JBQXdCLENBQUM7QUFDdkMsY0FBYyw2Q0FBNkMsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgY29ubmV4LXVpXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvY29ubmV4LXVpLm1vZHVsZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9jb25uZXgtYnV0dG9uL2Nvbm5leC1idXR0b24uY29tcG9uZW50JztcblxuIl19
